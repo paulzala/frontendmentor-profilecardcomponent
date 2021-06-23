@@ -22,13 +22,13 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Screenshot
 
-![Mobile](./screenshots/screenshot-mobile.jpg)
-![Desktop](./screenshots/screenshot-desktop.jpg)
+![Mobile](./screenshots/screenshot-mobile.png)
+![Desktop](./screenshots/screenshot-desktop.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution](https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ/hub/profile-card-component-o7FuQ0gI_)
+- Live Site URL: [Live site](https://paulzala.github.io/frontendmentor-profilecardcomponent/)
 
 ## My process
 
