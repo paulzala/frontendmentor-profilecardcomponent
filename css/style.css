@@ -2,12 +2,7 @@ body {
     padding: 0 24px 0 24px;
     background-color: hsl(185, 75%, 39%);
     background-image: url(../images/bg-pattern-top.svg), url(../images/bg-pattern-bottom.svg);
-    /*background-image: url(../images/bg-pattern-bottom.svg);*/
     background-position: -550px -450px, top 500px right -600px;
-    /*background-position: -10000px -10000px, 200px 500px!*, -350px -250px*!;*/
-    /*background-position: top -1000px left -1000px, bottom 5px right 5px;*/
-    /*background-position: top 500px right -600px;*/
-    /*background-size: 850px, 850px;*/
     background-repeat: no-repeat;
     font-family: 'Kumbh Sans', sans-serif;
 }
